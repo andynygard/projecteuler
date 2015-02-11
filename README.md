@@ -1,1 +1,3 @@
-# projecteuler
+# Project Euler
+
+For the joy of math
